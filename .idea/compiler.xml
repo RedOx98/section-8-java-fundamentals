@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="S08L04 - Foreach loop in Java" />
+        <module name="S08L06 - Method arguments, call by reference in Java" />
+        <module name="S08L02 - Initialization on array in Java" />
+        <module name="S08L05 - Method arguments, call by value in Java" />
+        <module name="S08L03 - Initialization on array in Java continues" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
